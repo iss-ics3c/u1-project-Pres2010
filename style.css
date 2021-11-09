@@ -1,0 +1,30 @@
+body{
+    background-color:lightblue; 
+    display: grid;
+    place-content: center; 
+    height: 100vh; 
+}
+#d1{
+    text-align: center; 
+    font-size: 3em;
+    border-top:medium solid blue;
+    border-bottom: medium solid blue;
+    color: lightseagreen ; 
+    
+}
+#p1 {
+    padding-top: 8px;
+    border-bottom: medium solid blue;
+}
+#p2 {
+     border-top: medium solid blue;
+      padding-bottom: 8px;
+}
+#l1{
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+#l2 {
+     padding-bottom: 8px;
+    padding-top: 8px;
+}
